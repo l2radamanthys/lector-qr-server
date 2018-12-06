@@ -1,0 +1,13 @@
+* {
+  background-color: #0288D1;
+  font-family: 'Dosis', sans-serif;
+  color: #FFFFFF;
+}
+
+
+.container {
+  width: 1000px;
+  margin: 0 auto;
+  text-align: center;
+  margin-top: 30vh;
+}
